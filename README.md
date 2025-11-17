@@ -43,32 +43,35 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="527" height="222" alt="image" src="https://github.com/user-attachments/assets/d2248f07-ce55-40c0-8d09-39470fb07e51" />
+
 
 ---
 
 ## CONNECTION DIAGRAM  
 **Setting up an Analog Link**
 
-*(Insert connection diagram here)*
+<img width="571" height="122" alt="image" src="https://github.com/user-attachments/assets/6cbd9ecb-c2bc-43bb-8ddb-031a9a7d81f2" />
+
 
 ---
 
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2025-11-17 at 20 15 34_44623195](https://github.com/user-attachments/assets/9d1e750d-785b-4253-a025-e3e711d464cf)
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="721" height="308" alt="image" src="https://github.com/user-attachments/assets/8751517b-17a7-4142-8faa-37a705a80287" />
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The transmitted and received waveforms for the 660 nm fiber link matched closely, confirming faithful analog and digital signal transfer.
+Output amplitude decreased with increasing frequency, showing the fiber link’s frequency-dependent response.
+The calculated –3 dB point confirms the bandwidth of the 660 nm analog/digital fiber optic link.
