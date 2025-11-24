@@ -146,6 +146,10 @@ meter fiber into the cap. Now tighten the cap by screwing it back.
 <img width="721" height="308" alt="image" src="https://github.com/user-attachments/assets/8751517b-17a7-4142-8faa-37a705a80287" />
 
 
+![WhatsApp Image 2025-11-24 at 14 23 38_6913c16c](https://github.com/user-attachments/assets/8b35a7e5-781b-4929-8312-9804fd5d6159)
+
+
+
 ---
 
 ## RESULT
