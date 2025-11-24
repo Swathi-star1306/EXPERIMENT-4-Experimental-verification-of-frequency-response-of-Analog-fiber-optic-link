@@ -1,4 +1,4 @@
-
+<img width="553" height="267" alt="image" src="https://github.com/user-attachments/assets/c90cb185-ba7d-4ac1-9b88-ee56bfe3c0ad" />
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
@@ -40,6 +40,7 @@ is centered at wavelength of 660nm.
 
 
 **RECEIVER:** 
+
 The function of the receiver is to convert the optical energy into electrical form, which is then 
 conditioned to reproduce the transmitted electrical signal in it's original form. The detector 
 SFH350V (Photo Transistor Detector) used in the kit has a transistor type output. The parameters 
@@ -109,7 +110,10 @@ meter fiber into the cap. Now tighten the cap by screwing it back.
 
 ▪ Observe the detected signal at post ANALOG OUT on oscilloscope. 
 
-![Uploading image.png…]()
+
+<img width="576" height="267" alt="image" src="https://github.com/user-attachments/assets/a4939cea-2b38-4abc-b581-87ba4423da1c" />
+
+
 
 
 
